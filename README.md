@@ -12,5 +12,8 @@ Test K6 using the following command:
 
 k6 run --duration 30s introduction.js
 
+# Report
+
+
 # Resources
 API for learning purposes: https://test-api.k6.io/
